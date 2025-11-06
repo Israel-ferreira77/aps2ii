@@ -12,3 +12,5 @@ javac -d bin src\exercicio5\*.java
 3.Rodar o programa:
 
 java -cp bin exercicio5/Main
+
+//teste
